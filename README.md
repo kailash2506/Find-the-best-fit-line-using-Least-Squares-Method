@@ -38,12 +38,13 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted)
 plt.show()
 ```
+
 ### Output:
 ### Y-intercept
-![Screenshot 2024-11-18 102111](https://github.com/user-attachments/assets/30dba2ba-701d-479d-bd7f-e5a5246593c3)
+![alt text](<Screenshot 2024-11-18 102111.png>)
 ### Y_predict
-![Screenshot 2024-11-18 102111](https://github.com/user-attachments/assets/89e192a1-1861-4e5c-a61a-207aa3f9bf55)
+![alt text](<Screenshot 2024-11-18 102222.png>)
 ### plt.show()
-![Screenshot 2024-11-18 102338](https://github.com/user-attachments/assets/3df7b30e-6f8f-4175-bff1-d1eadcd58b83)
+![alt text](<Screenshot 2024-11-18 102338.png>)
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
